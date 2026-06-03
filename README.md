@@ -1,2 +1,3 @@
 # project-alpha
-My first git project
+My first git repository
+
